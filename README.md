@@ -22,8 +22,8 @@
 - Type the following command to clone the repository from GitHub
 
 ```
-git clone https://github.com/phuonganh-38/city-paint-chatbot.git
-cd city-paint-chatbot
+git clone https://github.com/phuonganh-38/chatbot-gemini.git
+cd chatbot-gemini
 ```
 
 3. Add your Google API Key:
